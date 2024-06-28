@@ -15,5 +15,4 @@ O sistema oferece as seguintes funcionalidades:
 ## Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-## Referência
-Este projeto foi desenvolvido seguindo a [documentação oficial do Django](https://docs.djangoproject.com/en/5.0/intro/tutorial01/).
+
